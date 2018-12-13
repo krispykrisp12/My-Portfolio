@@ -85,15 +85,20 @@ body {
 }
 
 /* Footer */
-
+.email {
+  margin-top: 30px;
+  text-align: center;
+}
 .copy-right {
   text-align: center;
   padding: 20px;
-  margin-top: 30px;
   color: #c0b283;
   /* background-color: rgb(176, 230, 255); */
 }
-
+.resume {
+  text-align: center;
+  border: 1px solid #c0b283;
+}
 a {
   color: #c0b283;
 }
