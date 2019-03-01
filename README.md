@@ -1,2 +1,3 @@
 # Portfolio
-This is going to be my updated portfolio! Update coming soon.
+This is a collection of projects I've been working on through the year.
+Also, has links to my linkedIN page and resume.
